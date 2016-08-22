@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Male or Female</string>
+    <string name="btnTextOK">OK</string>
+    <string name="tvMale">Мужчина</string>
+    <string name="tvFemale">Женщина</string>
+</resources>
