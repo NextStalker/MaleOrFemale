@@ -3,4 +3,9 @@
     <string name="btnTextOK">OK</string>
     <string name="tvMale">Мужчина</string>
     <string name="tvFemale">Женщина</string>
+    <string name="tvDate">Нажмите для выбора даты</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="ready">Готово</string>
+    <string name="male">Мальчик</string>
+    <string name="female">Девочка</string>
 </resources>
