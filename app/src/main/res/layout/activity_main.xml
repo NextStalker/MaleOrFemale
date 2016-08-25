@@ -14,26 +14,26 @@
         android:layout_height="wrap_content"
         android:text="@string/tvMale" />
 
-    <TextView
-        android:id="@+id/tvDateMale"
+    <EditText
+        android:id="@+id/etDateMale"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:clickable="true"
-        android:textSize="22sp"
-        android:text="@string/tvDate" />
+        android:hint="@string/dateHint"
+        android:inputType="date"
+        android:textSize="22sp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/tvFemale" />
 
-    <TextView
-        android:id="@+id/tvDateFemale"
+    <EditText
+        android:id="@+id/etDateFemale"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:clickable="true"
-        android:textSize="22sp"
-        android:text="@string/tvDate" />
+        android:hint="@string/dateHint"
+        android:inputType="date"
+        android:textSize="22sp" />
 
     <Button
         android:id="@+id/btnOK"
